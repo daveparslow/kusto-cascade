@@ -1,0 +1,55 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": ""
+    },
+    "pages": [
+    ],
+    "entries": [
+      {
+        "startedDateTime": "2015-12-16T12:14:12.967Z",
+        "time": 138.29300000043077,
+        "request": {
+          "method": "GET",
+          "url": "hello world",
+          "httpVersion": "",
+          "headers": [],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "",
+          "headers": [{
+            "name": "Cache-Control",
+            "value": "public"
+        }],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "application/javascript",
+            "text": ""
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": -1,
+          "receive": -1,
+          "ssl": -1
+        }
+      }
+    ]
+  }
+}
